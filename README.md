@@ -4,6 +4,10 @@ Marketplace e-commerce multi-vendeurs développée avec **Laravel 13**, **PHP 8.
 
 Projet académique réalisé dans le cadre du module *Programmation Web 2* (année universitaire 2025-2026).
 
+## Démonstration
+
+🎥 **[Voir la vidéo de démonstration sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7473684336354029569/)** : parcours complet de la marketplace (catalogue, panier hybride produits et services, commande, espace vendeur, administration).
+
 ## Fonctionnalités
 
 **Catalogue et achat**
