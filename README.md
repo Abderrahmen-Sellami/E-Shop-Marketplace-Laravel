@@ -12,6 +12,7 @@ Projet académique réalisé dans le cadre du module *Programmation Web 2* (ann�
 - Liste de favoris (wishlist)
 - Panier en session pour les produits **et** les services
 - Commandes avec statuts (en attente, validée, annulée) et annulation par l'acheteur
+- Création de commande dans une **transaction SQL** avec verrou de ligne (`lockForUpdate`) : le stock est vérifié puis décrémenté sans risque de survente, et restitué à l'annulation (produits uniquement)
 
 **Vendeurs**
 - CRUD des produits avec upload d'images
